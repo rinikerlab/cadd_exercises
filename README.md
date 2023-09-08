@@ -1,3 +1,11 @@
+# Launching these notebooks in binder
+
+This link will create a binder session with the notebooks running in jupyter lab:
+https://mybinder.org/v2/gh/rinikerlab/cadd_exercises/main
+
+
+
+
 # Getting started in your own python environment
 
 1. Install a miniconda distribution, we recommend miniforge.
