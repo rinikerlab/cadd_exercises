@@ -13,3 +13,9 @@ dependencies:
   - biotite
   - py3dmol
   - tqdm
+  - biopython
+  - redo
+  - mdanalysis
+  - pip
+  - pip:
+    - git+https://github.com/volkamerlab/opencadd 
