@@ -5,6 +5,7 @@ dependencies:
   - python=3.11
   - rdkit=2023.03
   - jupyter=1.0
+  - pandas=2.0
   - pypdb
   - chembl_webresource_client
   - requests
